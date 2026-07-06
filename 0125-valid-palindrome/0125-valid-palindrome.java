@@ -26,11 +26,9 @@ class Solution {
             if (ch1 != ch2) {
                 return false;
             }
-
             i++;
             j--;
         }
-
         return true;
     }
 }
