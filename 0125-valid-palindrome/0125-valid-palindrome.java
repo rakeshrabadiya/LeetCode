@@ -1,19 +1,20 @@
 class Solution {
+    public boolean isLetterOrDigit(char ch) {
+        return (ch >= 'A' && ch <= 'Z') ||
+               (ch >= 'a' && ch <= 'z') ||
+               (ch >= '0' && ch <= '9');
+    }
     public boolean isPalindrome(String s) {
         int i = 0;
         int j = s.length() - 1;
         while (i < j) {
             char ch1 = s.charAt(i);
             char ch2 = s.charAt(j);
-            if (!((ch1 >= 'A' && ch1 <= 'Z') ||
-                  (ch1 >= 'a' && ch1 <= 'z') ||
-                  (ch1 >= '0' && ch1 <= '9'))) {
+            if (!isLetterOrDigit(ch1)) {
                 i++;
                 continue;
             }
-            if (!((ch2 >= 'A' && ch2 <= 'Z') ||
-                  (ch2 >= 'a' && ch2 <= 'z') ||
-                  (ch2 >= '0' && ch2 <= '9'))) {
+            if (!isLetterOrDigit(ch2)) {
                 j--;
                 continue;
             }
