@@ -1,22 +1,22 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
         int[] last = new int[26];
-        for (int i = 0; i < s.length(); i++) {
+        boolean[] seen = new boolean[26];
+        for (int i = 0; i < s.length(); i++)
             last[s.charAt(i) - 'a'] = i;
-        }
-        StringBuilder sb = new StringBuilder();
+        StringBuilder st = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            if (sb.indexOf(String.valueOf(ch)) != -1)
-                continue;
-            while (sb.length() > 0 &&
-                   sb.charAt(sb.length() - 1) > ch &&
-                   last[sb.charAt(sb.length() - 1) - 'a'] > i) {
-
-                sb.deleteCharAt(sb.length() - 1);
+            char c = s.charAt(i);
+            if (seen[c - 'a']) continue;
+            while (st.length() > 0 &&
+                   st.charAt(st.length() - 1) > c &&
+                   last[st.charAt(st.length() - 1) - 'a'] > i) {
+                seen[st.charAt(st.length() - 1) - 'a'] = false;
+                st.deleteCharAt(st.length() - 1);
             }
-            sb.append(ch);
+            st.append(c);
+            seen[c - 'a'] = true;
         }
-        return sb.toString();
+        return st.toString();
     }
 }
