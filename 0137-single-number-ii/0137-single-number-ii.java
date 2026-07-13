@@ -1,18 +1,12 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ans = 0;
-        for (int i = 0; i < 32; i++) {
-            int sum = 0;
-            for (int j = 0; j < nums.length; j++) {
-                if (((nums[j] >> i) & 1) == 1) {
-                    sum++;
-                    sum %= 3;
-                }
-            }
-            if (sum != 0) {
-                ans |= sum << i;
-            }
+        int o = 0;
+        int t = 0;
+        int n = nums.length;
+        for(int i = 0; i<n ; i++){
+            o = (o^nums[i]) & ~t;
+            t = (t^nums[i]) & ~o;
         }
-        return ans;
+    return o;
     }
 }
