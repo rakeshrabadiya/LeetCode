@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rakeshrabadiya/LeetCode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
