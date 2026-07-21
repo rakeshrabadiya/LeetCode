@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rakeshrabadiya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rakeshrabadiya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0905-sort-array-by-parity](https://github.com/rakeshrabadiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rakeshrabadiya/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakeshrabadiya/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rakeshrabadiya/LeetCode/tree/master/0137-single-number-ii) |
+| [0905-sort-array-by-parity](https://github.com/rakeshrabadiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rakeshrabadiya/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/rakeshrabadiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
