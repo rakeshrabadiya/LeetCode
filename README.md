@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rakeshrabadiya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rakeshrabadiya/LeetCode/tree/master/0137-single-number-ii) |
 | [0905-sort-array-by-parity](https://github.com/rakeshrabadiya/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/rakeshrabadiya/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
