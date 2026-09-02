@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakeshrabadiya/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rakeshrabadiya/LeetCode/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rakeshrabadiya/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0905-sort-array-by-parity](https://github.com/rakeshrabadiya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rakeshrabadiya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakeshrabadiya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakeshrabadiya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rakeshrabadiya/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
